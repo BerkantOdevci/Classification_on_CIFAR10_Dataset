@@ -6,7 +6,7 @@ in this report. This strategy has previously been shown to increase performance 
 learnable filters and pooling layers were used. Dropout, regularization, and variation in convolution techniques were used to reduce overfitting while maintaining 
 high validation and testing accuracy. A deeper network improved test accuracy while reducing overfitting.
 
-This repository based on article which is about classification on CIFAR10 Dataset. Article is used tensorflow but ı used pytorch to set convolutional neural networks. 
+This repository based on article which is about classification on CIFAR10 Dataset. Article is used tensorflow. However, I used pytorch to set convolutional neural networks. 
 After using dropout and L2 regularization in convolution techniques, I got 0.6960 in test data. Besides, I loaded results which show about training and validation 
 accuracy and loss.
 
